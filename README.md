@@ -169,16 +169,6 @@ Crafting narratives and developing compelling characters
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🎵 Currently Listening To
-
-<div align="center">
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31xtxahbkppwhx4ldserrvawjq6a&unique=true&count=3&width=300)](https://open.spotify.com/user/31xtxahbkppwhx4ldserrvawjq6a)
-
-</div>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -198,12 +188,6 @@ Crafting narratives and developing compelling characters
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/mito-1315/count.svg)
-
-*Last updated: January 2025*
-
-<br>
 
 ## Inspired by one. About to inspire many.
 
