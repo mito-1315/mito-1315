@@ -118,7 +118,7 @@ An AI-powered computer vision project focusing on real-time detection and preven
 </td>
 <td>
 
-[![Driver Drowsiness](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=driver-drowsiness-system&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/driver-drowsiness-system)
+[![Driver Drowsiness](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=mito-1315&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/mito-1315)
 
 </td>
 </tr>
