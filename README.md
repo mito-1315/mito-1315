@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ **Mithesh Tharun S** 🕸️
+# **Mithesh Tharun S**
 ### *Student • Full-Stack Developer • AI/ML Engineer*
 
 > **"Inspired by one. About to inspire many."**
@@ -11,7 +11,7 @@
 
 </div>
 
-## 🦸‍♂️ **About Me**
+## **About Me**
 
 <div align="center">
 
