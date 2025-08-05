@@ -113,7 +113,7 @@ An AI-powered computer vision project focusing on real-time detection and preven
 <tr>
 <td>
 
-[![Tamil Lyricer](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=rent-machi&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/tamil-tunes-lyrics-fix)
+[![Tamil Lyricer](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=tamil-tunes-lyrics-fix&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/tamil-tunes-lyrics-fix)
 
 </td>
 <td>
