@@ -118,7 +118,7 @@ An AI-powered computer vision project focusing on real-time detection and preven
 </td>
 <td>
 
-[![Smart Sync Attendance Register](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=smartsyncone&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/smartsyncone)
+[![Smart Sync Attendance Register](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=smartsyncone&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/face-attendance)
 
 </td>
 </tr>
