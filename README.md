@@ -95,14 +95,6 @@ An AI-powered computer vision project focusing on real-time detection and preven
 
 </div>
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mito-1315&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15)
-
-</div>
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🎯 Featured Repositories
