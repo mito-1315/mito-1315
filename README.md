@@ -166,10 +166,10 @@ Crafting narratives and developing compelling characters
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithesh-tharun-s-18407a2a2/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:off.mithu1315@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitheshtharun@gmail.com)
 [![Instagram - Personal](https://img.shields.io/badge/Instagram_Personal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mito_1315_/)
 
-[![Instagram - Soup Boys](https://img.shields.io/badge/The_Soup_Boys-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thesoupboys_/)
+[![Instagram - Soup Boys](https://img.shields.io/badge/The_Soup_Boys-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mito_1315_/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31xtxahbkppwhx4ldserrvawjq6a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](#)
 
