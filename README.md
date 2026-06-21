@@ -113,12 +113,12 @@ An AI-powered computer vision project focusing on real-time detection and preven
 <tr>
 <td>
 
-[![Tamil Lyricer](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=mytuudle&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/mytuudle)
+[![MyTuudle](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=mytuudle&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/mytuudle)
 
 </td>
 <td>
 
-[![Smart Sync Attendance Register](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=devs-attendance&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/devs-attendance)
+[![Devs Attendance](https://github-readme-stats.vercel.app/api/pin/?username=mito-1315&repo=devs-attendance&theme=tokyonight&hide_border=true)](https://github.com/mito-1315/devs-attendance)
 
 </td>
 </tr>
